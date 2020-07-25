@@ -1,2 +1,0 @@
-# AMD
-App Man Down

@@ -1,0 +1,13 @@
+name=MQTT_subscriber
+Mqtt_pwd=mypwdtest12
+Mqtt_uname=testuser
+Mqtt_url=tcp://red.valtellina.com:65183
+Mqtt_qos=2
+GPS_TOPIC=GPS
+APP_STAT_TOPIC=appStatus
+ALARM_TOPIC=alarm
+LOCAL_TIME=GMT+01
+url=jdbc:postgresql://red.valtellina.com:65032/AMD-CustomerCloud
+db_user=amd_message_user
+db_pwd=amd_message_user
+LOG_LEVEL=INFO
